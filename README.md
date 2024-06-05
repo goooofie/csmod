@@ -1,7 +1,7 @@
 # csmod
 A easy way to install mods for CS 1.6
 
-**ONLY THE STEAM VERSION IS SUPPORTED**
+**⚠️ONLY THE STEAM VERSION IS SUPPORTED⚠️**
 
 currently also not supporting other drives than the C: drive
 
